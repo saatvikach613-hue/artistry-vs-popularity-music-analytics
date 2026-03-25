@@ -1,0 +1,484 @@
+song,artist,musical_era,era_3,best_peak_position,total_weeks,danceability,energy,valence,tempo,acousticness,peak_quartile,hit_category
+...And Then There Were Drums,Sandy Nelson,1960s,Pre-Social,1,4,0.64,0.762,0.691,132.42,0.04,1,Enduring Hit
+(Welcome) New Lovers,Pat Boone,1960s,Pre-Social,1,12,0.88,0.664,0.841,113.804,0.077,1,Enduring Hit
+(Theme From) Valley Of The Dolls,Dionne Warwick,1960s,Pre-Social,1,13,0.666,0.639,0.866,140.78,0.298,1,Enduring Hit
+$ave Dat Money,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,2010s,Early Social,1,19,0.82,0.691,0.481,149.442,0.778,1,Enduring Hit
+(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,1970s,Pre-Social,1,9,0.515,0.63,0.71,170.034,0.157,1,Enduring Hit
+180 (Lifestyle),Morgan Wallen,2020s,TikTok Era,1,2,0.723,0.778,0.552,128.516,0.649,1,Enduring Hit
+24 Hours,A Boogie wit da Hoodie Featuring Lil Durk,2020s,TikTok Era,1,1,0.654,0.889,0.485,168.625,0.677,1,Enduring Hit
+4 Your Eyez Only,J. Cole,2010s,TikTok Era,1,1,0.611,0.72,0.677,163.431,0.506,1,Enduring Hit
+16 Carriages,Beyonce,2020s,TikTok Era,1,6,0.574,0.84,0.654,148.221,0.795,1,Enduring Hit
+1.5,21 Savage,2010s,TikTok Era,1,1,0.358,0.693,0.693,85.548,0.022,1,Enduring Hit
+(Loneliness Made Me Realize) It's You That I Need,The Temptations,1960s,Pre-Social,1,9,0.35,0.674,0.365,105.543,0.661,1,Enduring Hit
+(Sittin' On) The Dock Of The Bay,Otis Redding,1960s,Pre-Social,1,16,0.533,0.845,0.573,79.075,0.776,1,Enduring Hit
+500 Miles Away From Home,Bobby Bare,1960s,Pre-Social,1,11,0.47,0.803,0.841,143.379,0.458,1,Enduring Hit
+7,Prince And The New Power Generation,1990s,Pre-Social,1,23,0.612,0.86,0.534,171.936,0.748,1,Enduring Hit
+(Down At) Papa Joe's,The Dixiebelles,1960s,Pre-Social,1,13,0.305,0.817,0.249,149.976,0.579,1,Enduring Hit
+25,Rod Wave,2020s,TikTok Era,1,14,0.55,0.783,0.305,89.286,0.323,1,Enduring Hit
+02.02.99,That Mexican OT,2020s,TikTok Era,1,3,0.871,0.508,0.491,83.179,0.754,1,Enduring Hit
+(When She Needs Good Lovin') She Comes To Me,The Chicago Loop,1960s,Pre-Social,1,7,0.301,0.761,0.313,126.036,0.016,1,Enduring Hit
+(she's) Sexy + 17,Stray Cats,1980s,Pre-Social,1,15,0.83,0.742,0.36,170.605,0.304,1,Enduring Hit
+3 Little Words,Nu Flavor,2000s,Pre-Social,1,9,0.503,0.579,0.531,124.565,0.585,1,Enduring Hit
+6 Man,Drake,2010s,Early Social,1,1,0.398,0.391,0.41,110.125,0.383,1,Enduring Hit
+(If You're Wondering If I Want You To) I Want You To,Weezer,2000s,Early Social,1,8,0.508,0.773,0.208,164.084,0.328,1,Enduring Hit
+(I've Got) Spring Fever,Little Willie John,1960s,Pre-Social,1,5,0.516,0.327,0.87,101.659,0.404,1,Enduring Hit
+(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?,Elton John,1980s,Pre-Social,1,12,0.597,0.607,0.731,86.361,0.101,1,Enduring Hit
+(I'm So) Afraid Of Losing You Again,Charley Pride,1960s,Pre-Social,1,6,0.567,0.353,0.774,80.286,0.668,1,Enduring Hit
+(The System Of) Doctor Tarr And Professor Fether,The Alan Parsons Project,1970s,Pre-Social,1,10,0.465,0.646,0.881,79.795,0.46,1,Enduring Hit
+'65 Love Affair,Paul Davis,1980s,Pre-Social,1,20,0.311,0.658,0.217,136.044,0.146,1,Enduring Hit
+500lbs,Lil Tecca,2020s,TikTok Era,1,20,0.864,0.343,0.251,111.256,0.048,1,Enduring Hit
+(Sittin' On) The Dock Of The Bay,Michael Bolton,1980s,Pre-Social,1,17,0.534,0.672,0.482,94.331,0.795,1,Enduring Hit
+1-Luv,E-40 (Featuring Leviti),1990s,Pre-Social,1,14,0.792,0.772,0.482,170.719,0.531,1,Enduring Hit
+(That's) What The Nitty Gritty Is,Shirley Ellis,1960s,Pre-Social,1,6,0.442,0.6,0.618,165.841,0.436,1,Enduring Hit
+(It Never Happens) In Real Life,Chuck Jackson,1960s,Pre-Social,1,7,0.432,0.724,0.699,128.177,0.209,1,Enduring Hit
+10 Freaky Girls,Metro Boomin Featuring 21 Savage,2010s,TikTok Era,1,4,0.719,0.705,0.638,146.044,0.746,1,Enduring Hit
+8th Of November,Big & Rich,2000s,Early Social,1,2,0.498,0.653,0.361,175.241,0.544,1,Enduring Hit
+1942,G-Eazy Featuring Yo Gotti & YBN Nahmir,2010s,TikTok Era,1,8,0.812,0.729,0.382,80.114,0.54,1,Enduring Hit
+7/11,Beyonce,2010s,Early Social,1,20,0.422,0.51,0.666,81.383,0.596,1,Enduring Hit
+(You Were Made For) All My Love,Jackie Wilson,1960s,Pre-Social,1,13,0.788,0.591,0.526,174.44,0.227,1,Enduring Hit
+2 Legit 2 Quit,M.C. Hammer,1990s,Pre-Social,1,20,0.82,0.624,0.487,149.386,0.502,1,Enduring Hit
+1st Of Tha Month,Bone Thugs-N-Harmony,1990s,Pre-Social,1,20,0.407,0.58,0.361,77.965,0.511,1,Enduring Hit
+5-4-3-2 (Yo! Time Is Up),Jade,1990s,Pre-Social,1,13,0.579,0.561,0.37,85.087,0.138,1,Enduring Hit
+(The Lament Of The Cherokee) Indian Reservation,Don Fardon,1960s,Pre-Social,1,9,0.468,0.565,0.677,131.793,0.569,1,Enduring Hit
+143,Bobby Brackins Featuring Ray J,2010s,Early Social,1,11,0.652,0.37,0.8,151.015,0.091,1,Enduring Hit
+3000 Miles,Brian Hyland,1960s,Pre-Social,1,1,0.301,0.767,0.395,110.893,0.601,1,Enduring Hit
+Butter,BTS,2020s,TikTok Era,1,20,0.731,0.692,0.704,145.176,0.074,1,Enduring Hit
+(The Lights Went Out In) Massachusetts,Bee Gees,1960s,Pre-Social,1,8,0.587,0.878,0.78,165.746,0.037,1,Enduring Hit
+(Now You See Me) Now You Don't,Lee Ann Womack,1990s,Pre-Social,1,11,0.349,0.673,0.739,136.857,0.409,1,Enduring Hit
+(Any Way That You Want It) I'll Be There,Starz,1970s,Pre-Social,1,4,0.388,0.704,0.389,125.69,0.689,1,Enduring Hit
+(How Can I Write On Paper) What I Feel In My Heart,Jim Reeves,1960s,Pre-Social,1,2,0.798,0.453,0.628,170.447,0.556,1,Enduring Hit
+1-2-3,The Chimes,1990s,Pre-Social,1,5,0.691,0.414,0.606,179.418,0.73,1,Enduring Hit
+1979,The Smashing Pumpkins,1990s,Pre-Social,1,22,0.774,0.525,0.651,112.732,0.71,1,Enduring Hit
+(He's) Raining In My Sunshine,Jay & The Americans,1960s,Pre-Social,1,4,0.442,0.463,0.489,74.568,0.206,1,Enduring Hit
+7 Dias,Gabito Ballesteros & Tito Double P,2020s,TikTok Era,1,1,0.759,0.494,0.317,80.954,0.087,1,Enduring Hit
+12 To 12,sombr,2020s,TikTok Era,1,9,0.477,0.499,0.786,131.892,0.147,1,Enduring Hit
+(I've Got) Bonnie,Bobby Rydell,1960s,Pre-Social,1,11,0.643,0.335,0.648,90.765,0.572,1,Enduring Hit
+23,Chayce Beckham,2020s,TikTok Era,1,20,0.455,0.692,0.332,103.85,0.686,1,Enduring Hit
+(She's A) Very Lovely Woman/The Long Way Around,Linda Ronstadt,1970s,Pre-Social,1,5,0.675,0.492,0.692,120.597,0.71,1,Enduring Hit
+Dynamite,BTS,2020s,TikTok Era,1,32,0.561,0.826,0.272,149.364,0.142,1,Enduring Hit
+(How I Spent My Summer Vacation) Or A Day At The Beach With Pedro & Man - P,Cheech & Chong,1970s,Pre-Social,1,5,0.78,0.512,0.656,76.713,0.658,1,Enduring Hit
+(You Keep Me) Hangin' On,Joe Simon,1960s,Pre-Social,1,15,0.539,0.34,0.743,99.115,0.417,1,Enduring Hit
+54321,Offset,2020s,TikTok Era,1,1,0.439,0.745,0.84,75.838,0.292,1,Enduring Hit
+4422,Drake Featuring Sampha,2010s,TikTok Era,1,2,0.69,0.365,0.557,144.16,0.498,1,Enduring Hit
+5 Leaf Clover,Luke Combs,2020s,TikTok Era,1,7,0.696,0.843,0.375,179.599,0.42,1,Enduring Hit
+(You're My) Soul And Inspiration,The Righteous Brothers,1960s,Pre-Social,1,13,0.309,0.636,0.641,131.65,0.096,1,Enduring Hit
+1999,Prince,1980s,Pre-Social,1,30,0.506,0.691,0.735,88.621,0.481,1,Enduring Hit
+4 My Town (Play Ball),Birdman Featuring Drake & Lil Wayne,2000s,Early Social,1,1,0.559,0.894,0.633,123.197,0.195,1,Enduring Hit
+9,Drake,2010s,TikTok Era,1,5,0.341,0.662,0.71,120.902,0.755,1,Enduring Hit
+#SELFIE,The Chainsmokers,2010s,Early Social,1,11,0.625,0.818,0.312,177.839,0.059,1,Enduring Hit
+10;000 Hours,Dan + Shay & Justin Bieber,2010s,TikTok Era,1,30,0.497,0.597,0.83,74.565,0.511,1,Enduring Hit
+(You're My) Soul And Inspiration,Donny & Marie Osmond,1970s,Pre-Social,1,11,0.365,0.812,0.627,132.281,0.507,1,Enduring Hit
+34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,2020s,TikTok Era,1,28,0.733,0.465,0.885,101.719,0.536,1,Enduring Hit
+25 To Life,Eminem,2010s,Early Social,1,1,0.831,0.704,0.31,149.967,0.232,1,Enduring Hit
+(God Must Have Spent) A Little More Time On You,*NSYNC,1990s,Pre-Social,1,22,0.817,0.686,0.756,119.471,0.376,1,Enduring Hit
+1 Thing,Amerie,2000s,Early Social,1,20,0.647,0.622,0.372,128.963,0.715,1,Enduring Hit
+5 Miles To Empty,Brownstone,1990s,Pre-Social,1,16,0.433,0.393,0.686,136.463,0.261,1,Enduring Hit
+(I'm Not Your) Steppin' Stone,The Monkees,1960s,Pre-Social,1,8,0.494,0.839,0.856,154.888,0.022,1,Enduring Hit
+(I Know) I'm Losing You,The Temptations,1960s,Pre-Social,1,10,0.334,0.318,0.278,103.418,0.11,1,Enduring Hit
+8,Billie Eilish,2010s,TikTok Era,1,1,0.351,0.609,0.24,81.506,0.065,1,Enduring Hit
+1-800-273-8255,Logic Featuring Alessia Cara & Khalid,2010s,TikTok Era,1,42,0.369,0.585,0.239,126.515,0.143,1,Enduring Hit
+1901,Phoenix,2000s,Early Social,1,13,0.838,0.75,0.299,165.045,0.654,1,Enduring Hit
+'til I Can Make It On My Own,Tammy Wynette,1970s,Pre-Social,1,5,0.741,0.608,0.55,134.648,0.363,1,Enduring Hit
+405,Justin Bieber,2020s,TikTok Era,1,1,0.599,0.382,0.234,116.791,0.717,1,Enduring Hit
+(I Wanna) Love My Life Away,Gene Pitney,1960s,Pre-Social,1,8,0.667,0.668,0.669,70.358,0.799,1,Enduring Hit
+(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,1970s,Pre-Social,1,16,0.549,0.573,0.606,158.945,0.7,1,Enduring Hit
+(what) In The Name Of Love,Naked Eyes,1980s,Pre-Social,1,12,0.43,0.683,0.511,81.717,0.796,1,Enduring Hit
+(Theme from) The Great Impostor,Henry Mancini And His Orchestra,1960s,Pre-Social,1,1,0.467,0.888,0.669,166.303,0.581,1,Enduring Hit
+(I Can Feel Those Vibrations) This Love Is Real,Jackie Wilson,1970s,Pre-Social,1,11,0.452,0.387,0.857,74.89,0.378,1,Enduring Hit
+8 X 10,Bill Anderson,1960s,Pre-Social,1,6,0.615,0.313,0.871,109.874,0.441,1,Enduring Hit
+(you're So Square) Baby; I Don't Care,Joni Mitchell,1980s,Pre-Social,1,9,0.893,0.549,0.619,160.462,0.575,1,Enduring Hit
+...Ready For It?,Taylor Swift,2010s,TikTok Era,1,20,0.758,0.876,0.62,157.258,0.26,1,Enduring Hit
+7 Rings,Ariana Grande,2010s,TikTok Era,1,33,0.744,0.59,0.259,159.799,0.402,1,Enduring Hit
+21 Guns,Green Day,2000s,Early Social,1,20,0.526,0.713,0.54,70.696,0.573,1,Enduring Hit
+(Sittin' On) The Dock Of The Bay,Sammy Hagar,1970s,Pre-Social,1,5,0.899,0.553,0.455,167.522,0.064,1,Enduring Hit
+(You Better) Know What You're Doin',Lloyd Price and His Orchestra,1960s,Pre-Social,1,2,0.569,0.756,0.227,111.339,0.756,1,Enduring Hit
+5-1-5-0,Dierks Bentley,2010s,Early Social,1,20,0.832,0.356,0.362,140.841,0.7,1,Enduring Hit
+2 Be Loved (Am I Ready),Lizzo,2020s,TikTok Era,1,13,0.392,0.781,0.481,80.664,0.03,1,Enduring Hit
+(I Could Only) Whisper Your Name,Harry Connick| Jr.,1990s,Pre-Social,1,20,0.328,0.491,0.219,123.429,0.053,1,Enduring Hit
+5-10-15-20 (25-30 Years Of Love),The Presidents,1970s,Pre-Social,1,15,0.663,0.603,0.743,75.641,0.436,1,Enduring Hit
+(I was) Born To Cry,Dion,1960s,Pre-Social,1,7,0.54,0.362,0.447,74.569,0.439,1,Enduring Hit
+1000 Times,Lil Durk Featuring Lil Baby,2020s,TikTok Era,1,1,0.702,0.6,0.321,153.891,0.699,1,Enduring Hit
+(Your Love Has Lifted Me) Higher And Higher,Rita Coolidge,1970s,Pre-Social,1,27,0.83,0.773,0.752,93.153,0.222,1,Enduring Hit
+20-75,Willie Mitchell,1960s,Pre-Social,1,10,0.616,0.803,0.729,131.068,0.267,1,Enduring Hit
+(Love Is Like A) Baseball Game,The Intruders,1960s,Pre-Social,1,9,0.66,0.398,0.325,93.716,0.48,1,Enduring Hit
+(Doin' The) Lovers Leap,Webb Pierce,1960s,Pre-Social,1,2,0.664,0.41,0.851,125.091,0.092,1,Enduring Hit
+(Baby) Hully Gully,The Olympics,1960s,Pre-Social,1,6,0.438,0.534,0.844,104.193,0.52,1,Enduring Hit
+(I Washed My Hands In) Muddy Water,Johnny Rivers,1960s,Pre-Social,1,8,0.673,0.443,0.261,93.014,0.47,1,Enduring Hit
+7 Rooms Of Gloom,Four Tops,1960s,Pre-Social,1,8,0.555,0.842,0.407,86.378,0.242,1,Enduring Hit
+(She's Just A) Fallen Angel,Starz,1970s,Pre-Social,1,3,0.387,0.75,0.502,126.163,0.342,1,Enduring Hit
+(Believed You Were) Lucky,'Til Tuesday,1980s,Pre-Social,1,3,0.598,0.433,0.851,78.462,0.571,1,Enduring Hit
+...Baby One More Time,Britney Spears,1990s,Pre-Social,1,32,0.375,0.863,0.795,129.001,0.162,1,Enduring Hit
+1 Night,Lil Yachty,2010s,TikTok Era,1,20,0.801,0.319,0.452,95.514,0.512,1,Enduring Hit
+(If Loving You Is Wrong) I Don't Want To Be Right,Barbara Mandrell,1970s,Pre-Social,1,16,0.893,0.844,0.777,145.47,0.79,1,Enduring Hit
+7 Days,Craig David,2000s,Pre-Social,1,20,0.728,0.379,0.346,79.073,0.386,1,Enduring Hit
+(What A Sad Way) To Love Someone,Ral Donner,1960s,Pre-Social,1,7,0.646,0.381,0.802,161.078,0.418,1,Enduring Hit
+(It's Just) The Way That You Love Me,Paula Abdul,1980s,Pre-Social,1,25,0.428,0.648,0.249,154.787,0.543,1,Enduring Hit
+4 In The Morning,Gwen Stefani,2000s,Early Social,1,16,0.894,0.387,0.562,159.701,0.399,1,Enduring Hit
+24's,T.I.,2000s,Pre-Social,1,15,0.497,0.487,0.467,135.885,0.74,1,Enduring Hit
+'Til You Can't,Cody Johnson,2020s,TikTok Era,1,36,0.433,0.376,0.419,107.199,0.485,1,Enduring Hit
+(Closest Thing To) Perfect,Jermaine Jackson,1980s,Pre-Social,1,7,0.814,0.704,0.445,97.645,0.091,1,Enduring Hit
+3am,Eminem,2000s,Early Social,1,1,0.399,0.512,0.281,142.953,0.191,1,Enduring Hit
+(Sittin' On) The Dock Of The Bay,Sergio Mendes & Brasil '66,1960s,Pre-Social,1,5,0.31,0.444,0.402,148.296,0.626,1,Enduring Hit
+1; 2; 3; 4 (Sumpin' New),Coolio,1990s,Pre-Social,1,21,0.396,0.702,0.436,75.809,0.174,1,Enduring Hit
+(They Long To Be) Close To You,Carpenters,1970s,Pre-Social,1,17,0.582,0.504,0.212,101.08,0.26,2,Solid Hit
+(He's My) Dreamboat,Connie Francis,1960s,Pre-Social,1,9,0.749,0.628,0.795,74.793,0.632,2,Solid Hit
+10-9-8,Face To Face,1980s,Pre-Social,1,15,0.38,0.631,0.258,136.286,0.335,2,Solid Hit
+4 Minutes,Glee Cast,2010s,Early Social,1,1,0.644,0.695,0.613,113.5,0.452,2,Solid Hit
+6 Inch,Beyonce Featuring The Weeknd,2010s,TikTok Era,1,3,0.516,0.555,0.343,146.895,0.191,2,Solid Hit
+2 Much,Justin Bieber,2020s,TikTok Era,1,1,0.385,0.642,0.875,161.222,0.164,2,Solid Hit
+(Baby Tell Me) Can You Dance,Shanice Wilson,1980s,Pre-Social,1,13,0.574,0.584,0.872,92.904,0.407,2,Solid Hit
+(Say) You're My Girl,Roy Orbison,1960s,Pre-Social,1,7,0.875,0.425,0.226,111.782,0.141,2,Solid Hit
+1; 2; 3; Red Light,1910 Fruitgum Co.,1960s,Pre-Social,1,13,0.4,0.771,0.646,71.596,0.629,2,Solid Hit
+2 Phones,Kevin Gates,2010s,TikTok Era,1,25,0.451,0.867,0.299,124.523,0.252,2,Solid Hit
+8th World Wonder,Kimberley Locke,2000s,Pre-Social,1,20,0.629,0.878,0.331,119.266,0.199,2,Solid Hit
+100 Years,Five for Fighting,2000s,Pre-Social,1,22,0.364,0.855,0.247,133.489,0.427,2,Solid Hit
+712PM,Future,2020s,TikTok Era,1,3,0.665,0.541,0.571,75.582,0.371,2,Solid Hit
+(Theme from) A Summer Place,Dick Roman,1960s,Pre-Social,1,7,0.421,0.674,0.514,88.04,0.209,2,Solid Hit
+(Everything I Do) I Do It For You,Bryan Adams,1990s,Pre-Social,1,22,0.8,0.898,0.649,100.094,0.698,2,Solid Hit
+(The Man Who Shot) Liberty Valance,Gene Pitney,1960s,Pre-Social,1,13,0.464,0.518,0.818,170.056,0.686,2,Solid Hit
+(Where Do I Begin) Love Story,Andy Williams,1970s,Pre-Social,1,13,0.506,0.559,0.378,72.75,0.698,2,Solid Hit
+(I Hate) Everything About You,Three Days Grace,2000s,Pre-Social,1,20,0.579,0.479,0.387,145.454,0.543,2,Solid Hit
+(Do You) Wanna Ride,Reel Tight,1990s,Pre-Social,1,1,0.616,0.642,0.567,82.294,0.654,2,Solid Hit
+(Pride) In The Name Of Love,U2,1980s,Pre-Social,1,15,0.583,0.771,0.459,175.848,0.746,2,Solid Hit
+(I Will Be Your) Shadow In The Street,Allan Clarke,1970s,Pre-Social,1,10,0.515,0.649,0.688,81.182,0.351,2,Solid Hit
+409,The Beach Boys,1960s,Pre-Social,1,1,0.305,0.451,0.831,144.046,0.396,2,Solid Hit
+(Our Love) Don't Throw It All Away,Andy Gibb,1970s,Pre-Social,1,18,0.488,0.811,0.783,78.121,0.639,2,Solid Hit
+4 Minutes,Madonna Featuring Justin Timberlake & Timbaland,2000s,Early Social,1,20,0.845,0.645,0.347,84.912,0.363,2,Solid Hit
+(You're Puttin') A Rush On Me,Stephanie Mills,1980s,Pre-Social,1,2,0.334,0.786,0.811,112.508,0.491,2,Solid Hit
+(I'm A) YoYo Man,Rick Cunha,1970s,Pre-Social,1,7,0.453,0.542,0.684,92.067,0.531,2,Solid Hit
+5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,2010s,Early Social,1,20,0.552,0.579,0.534,71.244,0.053,2,Solid Hit
+50 Ways To Say Goodbye,Train,2010s,Early Social,1,20,0.78,0.775,0.276,161.431,0.309,2,Solid Hit
+1973,James Blunt,2000s,Early Social,1,3,0.775,0.314,0.866,94.967,0.284,2,Solid Hit
+8th Wonder,Sugarhill Gang,1980s,Pre-Social,1,9,0.594,0.776,0.673,144.064,0.681,2,Solid Hit
+2040,Lil Baby & Lil Durk,2020s,TikTok Era,1,2,0.771,0.409,0.445,179.386,0.781,2,Solid Hit
+(There's) Always Something There To Remind Me,Sandie Shaw,1960s,Pre-Social,1,7,0.73,0.747,0.516,165.535,0.231,2,Solid Hit
+7 Seconds,Youssou N'Dour & Neneh Cherry,1990s,Pre-Social,1,4,0.488,0.883,0.363,129.824,0.135,2,Solid Hit
+(Theme From) Love Story,Henry Mancini And His Orchestra,1970s,Pre-Social,1,11,0.352,0.804,0.293,178.411,0.57,2,Solid Hit
+365,Zedd & Katy Perry,2010s,TikTok Era,1,1,0.572,0.539,0.827,84.415,0.765,2,Solid Hit
+4 AM,Melanie Fiona,2010s,Early Social,1,8,0.724,0.835,0.499,71.98,0.78,2,Solid Hit
+(Remember Me) I'm The One Who Loves You,Dean Martin,1960s,Pre-Social,1,7,0.331,0.654,0.414,81.699,0.447,2,Solid Hit
+'Til Summer Comes Around,Keith Urban,2010s,Early Social,1,16,0.492,0.72,0.354,165.841,0.331,2,Solid Hit
+100% Pure Love,Crystal Waters,1990s,Pre-Social,1,45,0.661,0.449,0.407,104.134,0.061,2,Solid Hit
+(Ghost) Riders In The Sky,Ramrods,1960s,Pre-Social,1,9,0.452,0.84,0.677,146.721,0.783,2,Solid Hit
+50 Ways To Leave Your Lover,Paul Simon,1970s,Pre-Social,1,17,0.389,0.497,0.713,73.293,0.328,2,Solid Hit
+(Just Like) Romeo & Juliet,The Reflections,1960s,Pre-Social,1,12,0.662,0.388,0.583,88.136,0.63,2,Solid Hit
+(She's) Some Kind Of Wonderful,The Fantastic Johnny C,1960s,Pre-Social,1,2,0.672,0.533,0.775,93.063,0.639,2,Solid Hit
+4X4,Travis Scott,2020s,TikTok Era,1,4,0.885,0.798,0.531,149.109,0.745,2,Solid Hit
+"(See You At The) ""Go-Go""",Dobie Gray,1960s,Pre-Social,1,7,0.706,0.641,0.267,154.754,0.384,2,Solid Hit
+(It) Feels So Good,Steven Tyler,2010s,Early Social,1,4,0.514,0.75,0.551,76.682,0.032,2,Solid Hit
+(There'll Come A Day When) Ev'ry Little Bit Hurts,Bobby Vee,1960s,Pre-Social,1,5,0.325,0.519,0.669,115.018,0.064,2,Solid Hit
+19 Somethin',Mark Wills,2000s,Pre-Social,1,20,0.728,0.698,0.727,95.584,0.59,2,Solid Hit
+2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,2010s,Early Social,1,14,0.721,0.486,0.72,174.909,0.483,2,Solid Hit
+679,Fetty Wap Featuring Remy Boyz,2010s,Early Social,1,40,0.352,0.54,0.208,111.587,0.14,2,Solid Hit
+360 Degrees (What Goes Around),Grand Puba,1990s,Pre-Social,1,14,0.491,0.81,0.665,151.945,0.099,2,Solid Hit
+(It's The Way) Nature Planned It,Four Tops,1970s,Pre-Social,1,9,0.379,0.67,0.674,179.973,0.114,2,Solid Hit
+1+1,Beyonce,2010s,Early Social,1,2,0.889,0.478,0.564,145.415,0.324,2,Solid Hit
+24 Hours,TeeFLii Featuring 2 Chainz,2010s,Early Social,1,7,0.687,0.451,0.555,164.611,0.479,2,Solid Hit
+4 AM,2 Chainz Featuring Travis Scott,2010s,TikTok Era,1,12,0.663,0.588,0.328,125.217,0.153,2,Solid Hit
+5500 Degrees,EST Gee Featuring Lil Baby| 42 Dugg & Rylo Rodriguez,2020s,TikTok Era,1,1,0.809,0.791,0.532,89.698,0.069,2,Solid Hit
+57 Channels (And Nothin' On),Bruce Springsteen,1990s,Pre-Social,1,6,0.614,0.726,0.683,151.524,0.457,2,Solid Hit
+(Now and Then There's) A Fool Such As I,Elvis Presley With The Jordanaires,Pre-1960s,Pre-Social,1,15,0.614,0.864,0.592,89.949,0.405,2,Solid Hit
+(Theme From) Any Number Can Win,Jimmy Smith,1960s,Pre-Social,1,1,0.854,0.538,0.374,94.299,0.328,2,Solid Hit
+3500,Travi$ Scott Featuring Future & 2 Chainz,2010s,Early Social,1,1,0.637,0.819,0.302,101.507,0.161,2,Solid Hit
+2055,Sleepy Hallow,2020s,TikTok Era,1,17,0.597,0.509,0.668,126.023,0.491,2,Solid Hit
+(I Don't Want To Love You But) You Got Me Anyway,Sutherland Brothers And Quiver,1970s,Pre-Social,1,12,0.829,0.471,0.407,114.911,0.709,2,Solid Hit
+31 Flavors,The Shirelles,1960s,Pre-Social,1,1,0.473,0.709,0.877,177.278,0.621,2,Solid Hit
+(The Best Part Of) Breakin' Up,The Ronettes,1960s,Pre-Social,1,8,0.36,0.443,0.877,79.172,0.146,2,Solid Hit
+6 God,Drake,2010s,Early Social,1,1,0.309,0.459,0.721,114.615,0.424,2,Solid Hit
+100,The Game Featuring Drake,2010s,Early Social,1,10,0.663,0.55,0.222,116.978,0.746,2,Solid Hit
+(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,1970s,Pre-Social,1,18,0.621,0.306,0.606,102.826,0.242,2,Solid Hit
+(We Ain't Got) Nothin' Yet,Blues Magoos,1960s,Pre-Social,1,14,0.477,0.614,0.892,121.734,0.604,2,Solid Hit
+25 Or 6 To 4,Chicago,1970s,Pre-Social,1,12,0.544,0.377,0.829,113.641,0.066,2,Solid Hit
+(I'm Just A) Fool For You,Gene Chandler,1960s,Pre-Social,1,2,0.719,0.599,0.694,94.056,0.233,2,Solid Hit
+1; 2 Step,Ciara Featuring Missy Elliott,2000s,Pre-Social,1,39,0.784,0.608,0.475,179.554,0.209,2,Solid Hit
+23,Mike Will Made-It Featuring Miley Cyrus| Wiz Khalifa & Juicy J,2010s,Early Social,1,23,0.717,0.511,0.25,86.695,0.111,2,Solid Hit
+(Shake; Shake; Shake) Shake Your Booty,KC And The Sunshine Band,1970s,Pre-Social,1,21,0.63,0.791,0.299,124.937,0.748,2,Solid Hit
+2018,Rod Wave & Sadie Jean,2020s,TikTok Era,1,1,0.537,0.721,0.213,168.394,0.161,2,Solid Hit
+223's,YNW Melly & 9lokknine,2010s,TikTok Era,1,19,0.394,0.339,0.745,163.284,0.472,2,Solid Hit
+26 Cents,The Wilkinsons,1990s,Pre-Social,1,18,0.565,0.582,0.402,121.475,0.537,2,Solid Hit
+(You Can't Let The Boy Overpower) The Man In You,Chuck Jackson,1960s,Pre-Social,1,1,0.89,0.487,0.788,86.864,0.527,2,Solid Hit
+2 Become 1,Spice Girls,1990s,Pre-Social,1,24,0.684,0.478,0.238,159.216,0.587,2,Solid Hit
+(I Never Promised You A) Rose Garden,Martina McBride,2000s,Early Social,1,2,0.654,0.433,0.379,132.151,0.796,2,Solid Hit
+19,Paul Hardcastle,1980s,Pre-Social,1,14,0.629,0.325,0.473,81.485,0.38,2,Solid Hit
+(Love Theme From) One Eyed Jacks,Ferrante & Teicher,1960s,Pre-Social,1,7,0.668,0.704,0.848,112.257,0.67,2,Solid Hit
+2Hoo,YoungBoy Never Broke Again,2020s,TikTok Era,1,1,0.589,0.74,0.205,124.071,0.651,2,Solid Hit
+30 For 30,SZA With Kendrick Lamar,2020s,TikTok Era,1,36,0.499,0.89,0.631,158.039,0.657,2,Solid Hit
+(We'll Be) United,The Intruders,1960s,Pre-Social,1,6,0.661,0.874,0.849,94.994,0.177,2,Solid Hit
+18 And Life,Skid Row,1980s,Pre-Social,1,20,0.612,0.774,0.695,96.464,0.449,2,Solid Hit
+'Round We Go,Big Sister,1990s,Pre-Social,1,2,0.385,0.87,0.833,109.418,0.322,2,Solid Hit
+(Let's Do) The Hully Gully Twist,Bill Doggett,1960s,Pre-Social,1,3,0.808,0.503,0.879,73.71,0.763,2,Solid Hit
+100.mil',J. Cole & BAS,2020s,TikTok Era,1,2,0.501,0.781,0.601,165.101,0.417,2,Solid Hit
+3;2;1,Tucker Wetmore,2020s,TikTok Era,1,1,0.628,0.673,0.503,142.304,0.536,2,Solid Hit
+4th Dimension,KIDS SEE GHOSTS Featuring Louis Prima,2010s,TikTok Era,1,1,0.443,0.57,0.748,78.444,0.042,2,Solid Hit
+(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool,Travis Wammack,1970s,Pre-Social,1,10,0.893,0.48,0.394,131.971,0.263,2,Solid Hit
+30,Pop Smoke Featuring Bizzy Banks,2020s,TikTok Era,1,1,0.757,0.515,0.528,133.865,0.715,2,Solid Hit
+853-5937,Squeeze,1980s,Pre-Social,1,12,0.874,0.448,0.45,144.883,0.107,2,Solid Hit
+5 D (Fifth Dimension),The Byrds,1960s,Pre-Social,1,5,0.401,0.897,0.875,154.709,0.587,2,Solid Hit
+20/20,George Benson,1980s,Pre-Social,1,13,0.62,0.391,0.403,93.979,0.454,2,Solid Hit
+(Not Just) Knee Deep - Part 1,Funkadelic,1970s,Pre-Social,1,4,0.497,0.689,0.566,101.673,0.03,2,Solid Hit
+(You're the) Devil In Disguise,Elvis Presley With The Jordanaires,1960s,Pre-Social,1,11,0.552,0.551,0.499,125.915,0.501,2,Solid Hit
+(Wish I Could Fly Like) Superman,The Kinks,1970s,Pre-Social,1,12,0.894,0.843,0.635,114.825,0.267,2,Solid Hit
+3 Peat,Lil Wayne,2000s,Early Social,1,1,0.355,0.871,0.554,152.793,0.732,2,Solid Hit
+(Remember The Days Of The) Old Schoolyard,Cat Stevens,1970s,Pre-Social,1,10,0.45,0.352,0.318,157.771,0.793,2,Solid Hit
+(Do The) Push And Pull Part I,Rufus Thomas,1970s,Pre-Social,1,13,0.374,0.794,0.563,81.589,0.118,2,Solid Hit
+(Call Me) When The Spirit Moves You,Touch,1980s,Pre-Social,1,5,0.733,0.482,0.373,136.896,0.116,2,Solid Hit
+1 Step Forward; 3 Steps Back,Olivia Rodrigo,2020s,TikTok Era,1,4,0.851,0.717,0.208,140.084,0.687,2,Solid Hit
+80s Mercedes,Maren Morris,2010s,TikTok Era,1,13,0.576,0.37,0.761,83.391,0.029,2,Solid Hit
+44 More,Logic,2010s,TikTok Era,1,5,0.331,0.701,0.814,98.826,0.048,2,Solid Hit
+(Forever) Live And Die,Orchestral Manoeuvres In The Dark,1980s,Pre-Social,1,17,0.349,0.649,0.383,138.024,0.337,2,Solid Hit
+(She's) Some Kind Of Wonderful,Huey Lewis & The News,1990s,Pre-Social,1,12,0.467,0.387,0.257,123.386,0.326,2,Solid Hit
+4:44,Jay-Z,2010s,TikTok Era,1,2,0.705,0.544,0.58,142.47,0.479,2,Solid Hit
+#thatPOWER,will.i.am Featuring Justin Bieber,2010s,Early Social,1,16,0.451,0.891,0.288,172.538,0.794,2,Solid Hit
+(Do The New) Continental,The Dovells,1960s,Pre-Social,1,10,0.616,0.328,0.822,97.736,0.219,2,Solid Hit
+66,Lil Yachty Featuring Trippie Redd,2010s,TikTok Era,1,1,0.659,0.677,0.771,100.075,0.664,2,Solid Hit
+(If You Want It) Do It Yourself,Gloria Gaynor,1970s,Pre-Social,1,2,0.735,0.67,0.541,133.046,0.129,2,Solid Hit
+(Sittin' On) The Dock Of The Bay,King Curtis & The Kingpins,1960s,Pre-Social,1,5,0.337,0.721,0.647,157.08,0.641,2,Solid Hit
+(Native Girl) Elephant Walk,Donald Jenkins & The Delighters,1960s,Pre-Social,1,8,0.797,0.467,0.493,128.113,0.106,2,Solid Hit
+(You've Got To) Move Two Mountains,Marv Johnson,1960s,Pre-Social,1,11,0.499,0.857,0.51,134.843,0.571,2,Solid Hit
+867-5309/jenny,Tommy Tutone,1980s,Pre-Social,1,27,0.519,0.84,0.802,118.648,0.559,2,Solid Hit
+"(You Make Me Feel Like) A Natural Woman (From ""New York Undercover"")",Mary J. Blige,1990s,Pre-Social,1,2,0.423,0.831,0.296,158.889,0.207,2,Solid Hit
+18,One Direction,2010s,Early Social,1,1,0.657,0.373,0.746,143.991,0.555,2,Solid Hit
+1-2-3,Gloria Estefan & Miami Sound Machine,1980s,Pre-Social,1,19,0.765,0.522,0.537,79.855,0.609,2,Solid Hit
+(They Long To Be) Close To You,Jerry Butler & Brenda Lee Eager,1970s,Pre-Social,1,3,0.523,0.394,0.547,156.617,0.477,2,Solid Hit
+24/7,Meek Mill Featuring Ella Mai,2010s,TikTok Era,1,19,0.815,0.617,0.75,98.601,0.252,2,Solid Hit
+4 Ever,Lil' Mo Featuring Fabolous,2000s,Pre-Social,1,20,0.38,0.608,0.772,115.364,0.309,3,Moderate Hit
+57,Karol G| Feid & DFZM Featuring Ovy On The Drums| J Balvin| Maluma| Ryan Castro & Blessd,2020s,TikTok Era,1,1,0.729,0.432,0.207,98.291,0.447,3,Moderate Hit
+2U,David Guetta Featuring Justin Bieber,2010s,TikTok Era,1,11,0.438,0.399,0.649,126.088,0.748,3,Moderate Hit
+5 O'Clock,Nonchalant,1990s,Pre-Social,1,20,0.629,0.531,0.623,70.552,0.644,3,Moderate Hit
+3AM On Glenwood,21 Savage,2020s,TikTok Era,1,2,0.377,0.425,0.253,71.446,0.561,3,Moderate Hit
+23,Sam Hunt,2020s,TikTok Era,1,20,0.453,0.393,0.437,153.454,0.216,3,Moderate Hit
+(Hot S**t) Country Grammar,Nelly,2000s,Pre-Social,1,34,0.844,0.838,0.589,73.577,0.294,3,Moderate Hit
+4KT Baby,YoungBoy Never Broke Again,2020s,TikTok Era,1,1,0.727,0.681,0.546,102.383,0.567,3,Moderate Hit
+2step,Ed Sheeran Featuring Lil Baby,2020s,TikTok Era,1,15,0.656,0.386,0.22,80.907,0.478,3,Moderate Hit
+7 And 7 Is,Love,1960s,Pre-Social,1,10,0.467,0.706,0.683,154.804,0.366,3,Moderate Hit
+2 On,Tinashe Featuring ScHoolboy Q,2010s,Early Social,1,24,0.836,0.783,0.289,88.981,0.237,3,Moderate Hit
+20 Cigarettes,Morgan Wallen,2020s,TikTok Era,1,22,0.793,0.488,0.455,161.42,0.549,3,Moderate Hit
+3 A.M. Eternal,The KLF,1990s,Pre-Social,1,19,0.753,0.693,0.863,152.225,0.316,3,Moderate Hit
+'Til,The Angels,1960s,Pre-Social,1,14,0.514,0.601,0.376,161.911,0.368,3,Moderate Hit
+(If You Let Me Make Love To You Then) Why Can't I Touch You?,Ronnie Dyson,1970s,Pre-Social,1,14,0.554,0.872,0.866,98.422,0.325,3,Moderate Hit
+(Lay Your Head On My) Pillow,Tony! Toni! Tone!,1990s,Pre-Social,1,15,0.561,0.401,0.484,99.985,0.609,3,Moderate Hit
+1;000 Laughs,Eloise Laws,1970s,Pre-Social,1,6,0.793,0.35,0.637,74.032,0.265,3,Moderate Hit
+(The Puppet Song) Whiskey On A Sunday,The Irish Rovers,1960s,Pre-Social,1,7,0.44,0.359,0.288,115.706,0.131,3,Moderate Hit
+'98 Braves,Morgan Wallen,2020s,TikTok Era,1,7,0.713,0.445,0.885,114.421,0.454,3,Moderate Hit
+-twistin'-White Silver Sands,Bill Black's Combo,1960s,Pre-Social,1,1,0.542,0.347,0.837,116.252,0.352,3,Moderate Hit
+(I'd Know You) Anywhere,Ashford & Simpson,1970s,Pre-Social,1,3,0.854,0.546,0.562,91.588,0.439,3,Moderate Hit
+(For God's Sake) Give More Power To The People,The Chi-lites,1970s,Pre-Social,1,11,0.704,0.786,0.772,140.933,0.663,3,Moderate Hit
+1994,Jason Aldean,2010s,Early Social,1,11,0.323,0.376,0.829,116.563,0.072,3,Moderate Hit
+(Love Me) Love The Life I Lead,The Fantastics,1970s,Pre-Social,1,4,0.893,0.475,0.403,166.822,0.142,3,Moderate Hit
+(Just Like) Romeo And Juliet,Sha Na Na,1970s,Pre-Social,1,10,0.55,0.387,0.509,81.555,0.389,3,Moderate Hit
+(You Make Me Feel Like) A Natural Woman,Aretha Franklin,1960s,Pre-Social,1,9,0.502,0.392,0.574,158.991,0.599,3,Moderate Hit
+#1,Nelly,2000s,Pre-Social,1,20,0.323,0.643,0.419,75.228,0.482,3,Moderate Hit
+20/20,Lil Tjay,2020s,TikTok Era,1,1,0.548,0.572,0.724,110.835,0.293,3,Moderate Hit
+22,Taylor Swift,2010s,Early Social,1,20,0.59,0.521,0.626,166.42,0.665,3,Moderate Hit
+(Theme From) Silver City,The Ventures,1960s,Pre-Social,1,3,0.334,0.617,0.351,176.821,0.417,3,Moderate Hit
+(Every Time I Turn Around) Back In Love Again,LTD,1970s,Pre-Social,1,19,0.867,0.668,0.859,123.579,0.273,3,Moderate Hit
+(Open Up The Door) Let The Good Times In,Dean Martin,1960s,Pre-Social,1,6,0.553,0.589,0.516,148.36,0.65,3,Moderate Hit
+(Come On) Shout,Alex Brown,1980s,Pre-Social,1,6,0.489,0.729,0.69,72.016,0.634,3,Moderate Hit
+(All of a Sudden) My Heart Sings,Paul Anka,Pre-1960s,Pre-Social,1,17,0.578,0.304,0.877,129.344,0.438,3,Moderate Hit
+(You Don't Know) How Glad I Am,Nancy Wilson,1960s,Pre-Social,1,11,0.322,0.472,0.774,169.977,0.624,3,Moderate Hit
+15 Minutes,Sabrina Carpenter,2020s,TikTok Era,1,1,0.761,0.628,0.367,172.844,0.25,3,Moderate Hit
+(Theme from) My Three Sons,Lawrence Welk And His Orchestra,1960s,Pre-Social,1,7,0.577,0.836,0.269,116.401,0.216,3,Moderate Hit
+4 Da Gang,42 Dugg & Roddy Ricch,2020s,TikTok Era,1,14,0.394,0.781,0.78,99.581,0.273,3,Moderate Hit
+(How Bout A Little Hand For) The Boys In The Band,The Boys In The Band,1970s,Pre-Social,1,10,0.541,0.405,0.395,72.82,0.577,3,Moderate Hit
+30-60-90,Willie Mitchell,1960s,Pre-Social,1,5,0.38,0.578,0.21,122.288,0.437,3,Moderate Hit
+(You Want To) Make A Memory,Bon Jovi,2000s,Early Social,1,20,0.455,0.517,0.849,95.939,0.233,3,Moderate Hit
+4; 5; 6,Sole Featuring JT Money & Kandi,1990s,Pre-Social,1,16,0.63,0.571,0.878,91.304,0.21,3,Moderate Hit
+808,Blaque,1990s,Pre-Social,1,20,0.609,0.448,0.35,137.106,0.386,3,Moderate Hit
+1900 Yesterday,Liz Damon's Orient Express,1970s,Pre-Social,1,12,0.343,0.525,0.576,144.038,0.501,3,Moderate Hit
+(All I Have To Do Is) Dream,The Nitty Gritty Dirt Band,1970s,Pre-Social,1,6,0.643,0.616,0.665,97.711,0.261,3,Moderate Hit
+19th Nervous Breakdown,The Rolling Stones,1960s,Pre-Social,1,10,0.577,0.555,0.711,176.825,0.676,3,Moderate Hit
+8 Out Of 10,Drake,2010s,TikTok Era,1,3,0.597,0.431,0.272,176.034,0.65,3,Moderate Hit
+(Sittin' On) The Dock Of The Bay,The Reddings,1980s,Pre-Social,1,9,0.574,0.551,0.549,88.031,0.448,3,Moderate Hit
+('til) I Kissed You,The Everly Brothers,Pre-1960s,Pre-Social,1,16,0.81,0.794,0.724,160.527,0.248,3,Moderate Hit
+(Mama Come Quick; and Bring Your) Lickin' Stick,George Torrence & The Naturals,1960s,Pre-Social,1,2,0.76,0.567,0.26,107.753,0.429,3,Moderate Hit
+(Want You) Back In My Life Again,Carpenters,1980s,Pre-Social,1,8,0.396,0.558,0.625,163.877,0.156,3,Moderate Hit
+(I Know) I'm Losing You,Uptown,1980s,Pre-Social,1,11,0.489,0.506,0.301,179.234,0.462,3,Moderate Hit
+(There Was A) Tall Oak Tree,Dorsey Burnette,1960s,Pre-Social,1,15,0.551,0.379,0.862,91.582,0.188,3,Moderate Hit
+(I'm Watching) Every Little Move You Make,Little Peggy March,1960s,Pre-Social,1,3,0.587,0.691,0.546,71.28,0.457,3,Moderate Hit
+5% Tint,Travis Scott,2010s,TikTok Era,1,2,0.705,0.774,0.586,82.766,0.782,3,Moderate Hit
+3-2-1 Pump,Redhead Kingpin & The F.B.I.,1990s,Pre-Social,1,15,0.791,0.531,0.881,121.952,0.433,3,Moderate Hit
+(You've Got Me) Dangling On A String,Chairman Of The Board,1970s,Pre-Social,1,9,0.707,0.415,0.77,123.167,0.441,3,Moderate Hit
+'03 Bonnie & Clyde,Jay-Z Featuring Beyonce Knowles,2000s,Pre-Social,1,23,0.746,0.894,0.335,175.342,0.031,3,Moderate Hit
+1985 (Intro To The Fall Off),J. Cole,2010s,TikTok Era,1,2,0.581,0.801,0.246,107.76,0.427,3,Moderate Hit
+1984,Spirit,1970s,Pre-Social,1,9,0.612,0.543,0.256,162.022,0.583,3,Moderate Hit
+(Girls; Girls; Girls) Made To Love,Eddie Hodges,1960s,Pre-Social,1,11,0.382,0.71,0.617,76.012,0.673,3,Moderate Hit
+(The Story Of) Woman; Love And A Man (Part 1),Tony Clarke,1960s,Pre-Social,1,1,0.607,0.368,0.607,147.355,0.691,3,Moderate Hit
+360,Charli xcx,2020s,TikTok Era,1,20,0.66,0.774,0.615,114.469,0.731,3,Moderate Hit
+442 Glenwood Avenue,The Pixies Three,1960s,Pre-Social,1,7,0.551,0.349,0.278,81.619,0.261,3,Moderate Hit
+(I Can Feel Your Love) Slipping Away,Barbara Mason,1960s,Pre-Social,1,1,0.565,0.329,0.573,116.408,0.414,3,Moderate Hit
+4; 3; 2; 1,LL Cool J Featuring Method Man| Redman| DMX| Canibus And Master P,1990s,Pre-Social,1,12,0.376,0.71,0.681,178.197,0.16,3,Moderate Hit
+(How To Be A) Millionaire,ABC,1980s,Pre-Social,1,14,0.434,0.822,0.619,73.63,0.309,3,Moderate Hit
+(I Know) I'm Losing You,Rod Stewart With Faces,1970s,Pre-Social,1,9,0.582,0.31,0.366,169.502,0.026,3,Moderate Hit
+(Theme from) Charlie's Angels,Henry Mancini And His Orchestra,1970s,Pre-Social,1,9,0.582,0.514,0.411,111.411,0.172,3,Moderate Hit
+17,Rick James,1980s,Pre-Social,1,14,0.616,0.706,0.839,154.035,0.732,3,Moderate Hit
+(I Wanna) Testify,The Parliaments,1960s,Pre-Social,1,13,0.667,0.398,0.472,163.64,0.353,3,Moderate Hit
+16 Candles,The Crests,Pre-1960s,Pre-Social,1,21,0.375,0.636,0.345,168.083,0.595,3,Moderate Hit
+(I Can't Help You) I'm Falling Too,Skeeter Davis,1960s,Pre-Social,1,7,0.617,0.734,0.435,97.911,0.704,3,Moderate Hit
+(Call Me Your) Anything Man,Bobby Moore,1970s,Pre-Social,1,2,0.672,0.466,0.491,72.531,0.268,3,Moderate Hit
+4 Seasons Of Loneliness,Boyz II Men,1990s,Pre-Social,1,20,0.4,0.591,0.463,91.301,0.453,3,Moderate Hit
+1st Time,Yung Joc Featuring Marques Houston & Trey Songz,2000s,Early Social,1,6,0.306,0.719,0.353,167.814,0.323,3,Moderate Hit
+(Between A) Rock And A Hard Place,Cutting Crew,1980s,Pre-Social,1,5,0.763,0.519,0.227,122.008,0.542,3,Moderate Hit
+(You're Gonna) Hurt Yourself,Frankie Valli,1960s,Pre-Social,1,7,0.812,0.674,0.6,112.963,0.514,3,Moderate Hit
+19 You + Me,Dan + Shay,2010s,Early Social,1,18,0.513,0.313,0.639,167.972,0.6,3,Moderate Hit
+2AM,BigXthaPlug,2020s,TikTok Era,1,3,0.768,0.498,0.661,115.296,0.231,3,Moderate Hit
+0 To 100 / The Catch Up,Drake,2010s,Early Social,1,20,0.735,0.316,0.683,132.329,0.241,3,Moderate Hit
+(If You Cry) True Love; True Love,The Drifters,Pre-1960s,Pre-Social,1,11,0.373,0.759,0.663,107.172,0.542,3,Moderate Hit
+(I Believe) There's Nothing Stronger Than Our Love,Paul Anka/Odia Coates,1970s,Pre-Social,1,13,0.57,0.555,0.838,74.35,0.069,3,Moderate Hit
+2 Reasons,Trey Songz Featuring T.I.,2010s,Early Social,1,20,0.815,0.893,0.487,116.378,0.113,3,Moderate Hit
+300 Urus,Lil Durk,2020s,TikTok Era,1,1,0.415,0.735,0.606,139.521,0.158,3,Moderate Hit
+(I Cried at) Laura's Wedding,Barbara Lynn,1960s,Pre-Social,1,8,0.493,0.478,0.422,123.323,0.228,3,Moderate Hit
+29,Demi Lovato,2020s,TikTok Era,1,1,0.843,0.425,0.395,144.345,0.789,3,Moderate Hit
+(If There Was) Any Other Way,Celine Dion,1990s,Pre-Social,1,12,0.635,0.531,0.775,94.251,0.034,3,Moderate Hit
+(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,1970s,Pre-Social,1,16,0.366,0.84,0.281,85.573,0.292,3,Moderate Hit
+5:15,The Who,1970s,Pre-Social,1,7,0.672,0.491,0.271,149.056,0.035,3,Moderate Hit
+33,Polo G,2020s,TikTok Era,1,1,0.731,0.723,0.712,148.996,0.79,3,Moderate Hit
+(i've Been) Searchin' So Long,Chicago,1970s,Pre-Social,1,15,0.719,0.554,0.655,144.609,0.091,3,Moderate Hit
+'Tis The Damn Season,Taylor Swift,2020s,TikTok Era,1,2,0.343,0.607,0.313,177.162,0.353,3,Moderate Hit
+(Theme From) The Sundowners,Mantovani & His Orchestra,1960s,Pre-Social,1,1,0.581,0.846,0.714,89.335,0.361,3,Moderate Hit
+5.7.0.5.,City Boy,1970s,Pre-Social,1,12,0.447,0.547,0.602,136.268,0.694,3,Moderate Hit
+30 For 30 Freestyle,Drake,2010s,Early Social,1,2,0.368,0.45,0.266,112.206,0.122,3,Moderate Hit
+(Here They Come) From All Over The World,Jan & Dean,1960s,Pre-Social,1,5,0.332,0.844,0.219,107.44,0.541,3,Moderate Hit
+1234,Feist,2000s,Early Social,1,15,0.82,0.852,0.587,162.002,0.528,3,Moderate Hit
+(Don't Worry) If There's A Hell Below We're All Going To Go,Curtis Mayfield,1970s,Pre-Social,1,12,0.51,0.45,0.832,176.843,0.61,3,Moderate Hit
+(There's) Always Something There To Remind Me,Lou Johnson,1960s,Pre-Social,1,7,0.878,0.373,0.819,129.497,0.475,3,Moderate Hit
+3,Britney Spears,2000s,Early Social,1,20,0.516,0.385,0.89,122.169,0.529,3,Moderate Hit
+10:35,Tiesto Featuring Tate McRae,2020s,TikTok Era,1,9,0.447,0.403,0.411,78.087,0.503,3,Moderate Hit
+5 Star,Yo Gotti,2000s,Early Social,1,2,0.698,0.783,0.849,172.548,0.5,3,Moderate Hit
+(There's Gotta Be) More To Life,Stacie Orrico,2000s,Pre-Social,1,20,0.886,0.733,0.796,139.135,0.775,3,Moderate Hit
+444+222,Lil Uzi Vert,2010s,TikTok Era,1,3,0.465,0.721,0.21,113.976,0.138,3,Moderate Hit
+5 Dollar Pony Rides,Mac Miller,2020s,TikTok Era,1,1,0.651,0.866,0.892,113.391,0.553,3,Moderate Hit
+(Just Like) Starting Over,John Lennon,1980s,Pre-Social,1,22,0.344,0.388,0.841,179.781,0.147,3,Moderate Hit
+7 Summers,Morgan Wallen,2020s,TikTok Era,1,24,0.796,0.42,0.74,162.442,0.192,3,Moderate Hit
+24K Magic,Bruno Mars,2010s,TikTok Era,1,41,0.394,0.385,0.365,124.859,0.606,3,Moderate Hit
+1-2-3,Len Barry,1960s,Pre-Social,1,15,0.829,0.308,0.514,167.851,0.134,3,Moderate Hit
+21,Polo G,2020s,TikTok Era,1,8,0.861,0.864,0.871,146.477,0.13,3,Moderate Hit
+7-6-5-4-3-2-1 (Blow Your Whistle),Gary Toms Empire,1970s,Pre-Social,1,17,0.869,0.394,0.467,111.021,0.455,3,Moderate Hit
+(You Can Still) Rock In America,Night Ranger,1980s,Pre-Social,1,12,0.373,0.369,0.724,109.048,0.533,3,Moderate Hit
+......And Roses And Roses,Andy Williams,1960s,Pre-Social,1,7,0.668,0.383,0.699,172.424,0.278,3,Moderate Hit
+(Ghost) Riders In The Sky,Outlaws,1980s,Pre-Social,1,15,0.418,0.613,0.724,112.447,0.335,3,Moderate Hit
+7 Things,Miley Cyrus,2000s,Early Social,1,15,0.304,0.701,0.31,176.497,0.785,3,Moderate Hit
+1400 / 999 Freestyle,Trippie Redd Featuring Juice WRLD,2010s,TikTok Era,1,3,0.805,0.752,0.861,149.827,0.082,3,Moderate Hit
+4 - By The Beatles,The Beatles,1960s,Pre-Social,1,5,0.52,0.339,0.387,153.552,0.555,3,Moderate Hit
+25 Million,Roddy Ricch,2020s,TikTok Era,1,1,0.763,0.844,0.725,155.274,0.521,3,Moderate Hit
+(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,1980s,Pre-Social,1,21,0.475,0.739,0.623,126.291,0.447,3,Moderate Hit
+7 Days,YoungBoy Never Broke Again,2020s,TikTok Era,1,1,0.359,0.329,0.28,79.637,0.578,3,Moderate Hit
+6 Underground,Sneaker Pimps,1990s,Pre-Social,1,22,0.368,0.322,0.789,106.912,0.29,4,Flash Hit
+(Keep Feeling) Fascination,The Human League,1980s,Pre-Social,1,20,0.539,0.57,0.675,162.392,0.544,4,Flash Hit
+10 Bands,Drake,2010s,Early Social,1,13,0.49,0.749,0.883,113.532,0.49,4,Flash Hit
+24,Money Man Featuring Lil Baby,2020s,TikTok Era,1,14,0.695,0.788,0.219,158.591,0.494,4,Flash Hit
+(You're My One And Only) True Love,Seduction,1980s,Pre-Social,1,21,0.34,0.776,0.533,164.663,0.361,4,Flash Hit
+"(Theme from) ""The Dark At The Top Of The Stairs""",Ernie Freeman,1960s,Pre-Social,1,6,0.709,0.526,0.673,175.308,0.483,4,Flash Hit
+(I Do The) Shimmy Shimmy,Bobby Freeman,1960s,Pre-Social,1,13,0.471,0.469,0.611,174.327,0.321,4,Flash Hit
+(Such An) Easy Question,Elvis Presley With The Jordanaires,1960s,Pre-Social,1,8,0.483,0.597,0.451,123.768,0.401,4,Flash Hit
+6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,2010s,Early Social,1,21,0.859,0.784,0.618,170.645,0.711,4,Flash Hit
+6 Kiss,Trippie Redd Featuring Juice WRLD & YNW Melly,2010s,TikTok Era,1,4,0.356,0.539,0.591,148.736,0.462,4,Flash Hit
+4x4xU,Lainey Wilson,2020s,TikTok Era,1,20,0.426,0.646,0.613,133.112,0.473,4,Flash Hit
+(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,1960s,Pre-Social,1,12,0.644,0.734,0.728,102.798,0.746,4,Flash Hit
+(everybody Wanna Get Rich) Rite Away,Dr. John,1970s,Pre-Social,1,4,0.554,0.784,0.28,160.227,0.05,4,Flash Hit
+7:30 Guided Tour,The Five Americans,1960s,Pre-Social,1,2,0.753,0.458,0.255,142.86,0.706,4,Flash Hit
+(We've Got) Honey Love,Martha Reeves & The Vandellas,1960s,Pre-Social,1,6,0.462,0.839,0.46,142.621,0.334,4,Flash Hit
+(I Wanna) Dance With The Teacher,The Olympics,Pre-1960s,Pre-Social,1,5,0.566,0.571,0.283,163.872,0.514,4,Flash Hit
+(I Love You) Don't You Forget It,Perry Como,1960s,Pre-Social,1,9,0.855,0.751,0.316,154.905,0.045,4,Flash Hit
+2 Step,Unk,2000s,Early Social,1,21,0.503,0.779,0.221,167.975,0.194,4,Flash Hit
+(Marie's The Name) His Latest Flame,Elvis Presley,1960s,Pre-Social,1,11,0.884,0.372,0.303,153.113,0.193,4,Flash Hit
+8am In Charlotte,Drake,2020s,TikTok Era,1,3,0.679,0.725,0.312,148.818,0.42,4,Flash Hit
+***Flawless,Beyonce Featuring Nicki Minaj Or Chimamanda Ngozi Adichie,2010s,Early Social,1,20,0.652,0.572,0.72,125.16,0.303,4,Flash Hit
+(Do The) Mashed Potatoes (Part 1),Nat Kendrick And The Swans,1960s,Pre-Social,1,1,0.532,0.844,0.742,150.259,0.388,4,Flash Hit
+6 Months Later,Megan Moroney,2020s,TikTok Era,1,17,0.646,0.71,0.802,100.88,0.085,4,Flash Hit
+"(Meet) The Flintstones (From ""The Flintstones"")",The B.C. 52's,1990s,Pre-Social,1,8,0.738,0.825,0.438,70.156,0.048,4,Flash Hit
+(New In) The Ways Of Love,Tommy Edwards,Pre-1960s,Pre-Social,1,9,0.786,0.693,0.59,141.165,0.631,4,Flash Hit
+2 Hands,Tate McRae,2020s,TikTok Era,1,2,0.722,0.71,0.373,135.263,0.403,4,Flash Hit
+5 Foot 9,Tyler Hubbard,2020s,TikTok Era,1,22,0.489,0.45,0.298,128.104,0.593,4,Flash Hit
+(Kissed You) Good Night,Gloriana,2010s,Early Social,1,20,0.459,0.315,0.899,161.17,0.552,4,Flash Hit
+4 Minutes,Avant,2000s,Early Social,1,14,0.34,0.444,0.776,124.619,0.375,4,Flash Hit
+3001,J. Cole,2020s,TikTok Era,1,1,0.515,0.666,0.718,176.491,0.709,4,Flash Hit
+28,Zach Bryan,2020s,TikTok Era,1,20,0.874,0.638,0.798,174.497,0.048,4,Flash Hit
+7969 Santa,Drake,2020s,TikTok Era,1,2,0.872,0.322,0.55,92.801,0.201,4,Flash Hit
+(Can't Live Without Your) Love And Affection,Nelson,1990s,Pre-Social,1,26,0.639,0.654,0.761,168.652,0.385,4,Flash Hit
+(The Bees Are For The Birds) The Birds Are For The Bees,The Newbeats,1960s,Pre-Social,1,7,0.796,0.887,0.654,92.889,0.601,4,Flash Hit
+(Today I Met) The Boy I'm Gonna Marry,Darlene Love,1960s,Pre-Social,1,8,0.611,0.733,0.289,162.989,0.667,4,Flash Hit
+100 Years,Nancy Sinatra,1960s,Pre-Social,1,6,0.585,0.733,0.29,102.279,0.201,4,Flash Hit
+3rd Man Theme,Herb Alpert & The Tijuana Brass,1960s,Pre-Social,1,6,0.43,0.45,0.375,100.249,0.691,4,Flash Hit
+#Beautiful,Mariah Carey Featuring Miguel,2010s,Early Social,1,16,0.325,0.373,0.279,70.417,0.162,4,Flash Hit
+3 Headed Goat,Lil Durk Featuring Lil Baby & Polo G,2020s,TikTok Era,1,16,0.812,0.83,0.647,112.141,0.582,4,Flash Hit
+(I Can't Get No) Satisfaction,The Rolling Stones,1960s,Pre-Social,1,14,0.72,0.344,0.315,134.459,0.364,4,Flash Hit
+634-5789 (Soulsville; U.S.A.),Wilson Pickett,1960s,Pre-Social,1,11,0.488,0.642,0.879,116.297,0.337,4,Flash Hit
+(A Ship Will Come) Ein Schiff Wird Kommen,Lale Anderson,1960s,Pre-Social,1,4,0.374,0.349,0.879,99.234,0.716,4,Flash Hit
+1; 2 Many,Luke Combs & Brooks & Dunn,2010s,TikTok Era,1,1,0.767,0.815,0.889,100.616,0.779,4,Flash Hit
+'Til You Do Me Right,After 7,1990s,Pre-Social,1,22,0.419,0.897,0.707,149.521,0.103,4,Flash Hit
+(I've Had) The Time Of My Life,Glee Cast,2010s,Early Social,1,1,0.577,0.434,0.612,95.064,0.452,4,Flash Hit
+(Baby) Turn On To Me,The Impressions,1970s,Pre-Social,1,8,0.614,0.764,0.797,78.144,0.597,4,Flash Hit
+24,Kanye West,2020s,TikTok Era,1,1,0.809,0.674,0.451,113.744,0.576,4,Flash Hit
+Water,Tyla,2020s,TikTok Era,1,29,0.55,0.338,0.871,89.561,0.717,4,Flash Hit
+7500 OBO,Tim McGraw,2020s,TikTok Era,1,8,0.836,0.603,0.544,98.525,0.625,4,Flash Hit
+(You Gotta) Fight For Your Right (To Party!),Beastie Boys,1980s,Pre-Social,1,18,0.622,0.439,0.29,154.776,0.502,4,Flash Hit
+(The Clickity Clack Song) Four Little Heels,Brian Hyland,1960s,Pre-Social,1,3,0.681,0.499,0.857,126.867,0.428,4,Flash Hit
+(He's) The Great Impostor,The Fleetwoods,1960s,Pre-Social,1,8,0.778,0.626,0.659,138.723,0.487,4,Flash Hit
+3D,Jung Kook & Jack Harlow,2020s,TikTok Era,1,9,0.554,0.303,0.701,88.197,0.768,4,Flash Hit
+(If You're Not In It For Love) I'm Outta Here!/The Woman In Me,Shania Twain,1990s,Pre-Social,1,15,0.683,0.615,0.895,174.994,0.252,4,Flash Hit
+21st Century Girl,Willow,2010s,Early Social,1,1,0.712,0.481,0.565,114.25,0.799,4,Flash Hit
+4th Baby Mama,Summer Walker,2020s,TikTok Era,1,1,0.588,0.465,0.601,138.587,0.765,4,Flash Hit
+500 Miles,Hooters,1980s,Pre-Social,1,5,0.541,0.678,0.6,126.743,0.498,4,Flash Hit
+22 (Taylor's Version),Taylor Swift,2020s,TikTok Era,1,1,0.802,0.388,0.298,156.023,0.03,4,Flash Hit
+(You Drive Me) Crazy,Britney Spears,1990s,Pre-Social,1,20,0.776,0.612,0.816,73.056,0.193,4,Flash Hit
+#9 Dream,John Lennon,1970s,Pre-Social,1,12,0.408,0.336,0.669,79.804,0.206,4,Flash Hit
+(Don't Fear) The Reaper,Blue Oyster Cult,1970s,Pre-Social,1,20,0.683,0.354,0.502,110.93,0.157,4,Flash Hit
+(Bringing Out) The Girl In Me,Maxine Nightingale,1970s,Pre-Social,1,5,0.33,0.599,0.731,92.926,0.043,4,Flash Hit
+32 Flavors,Alana Davis,1990s,Pre-Social,1,20,0.365,0.321,0.809,89.808,0.604,4,Flash Hit
+(if You Add) All The Love In The World,Mac Davis,1970s,Pre-Social,1,4,0.39,0.838,0.542,131.843,0.077,4,Flash Hit
+(Come 'round Here) I'm The One You Need,The Miracles,1960s,Pre-Social,1,9,0.384,0.308,0.843,127.718,0.539,4,Flash Hit
+(You Can't Let The Boy Overpower) The Man In You,The Miracles,1960s,Pre-Social,1,5,0.752,0.727,0.62,164.03,0.643,4,Flash Hit
+3 Headed Snake,Gunna Featuring Young Thug,2010s,TikTok Era,1,1,0.336,0.386,0.356,136.735,0.31,4,Flash Hit
+1942 Flows,Meek Mill,2010s,TikTok Era,1,1,0.787,0.743,0.885,178.517,0.655,4,Flash Hit
+(1-2-3-4-5-6-7) Count The Days,Inez & Charlie Foxx,1960s,Pre-Social,1,4,0.765,0.365,0.302,166.554,0.448,4,Flash Hit
+1965,jessie murph,2020s,TikTok Era,1,1,0.428,0.332,0.385,78.207,0.166,4,Flash Hit
+(There's) No Gettin' Over Me,Ronnie Milsap,1980s,Pre-Social,1,20,0.603,0.341,0.668,95.802,0.608,4,Flash Hit
+31 Days,Future,2010s,TikTok Era,1,2,0.82,0.898,0.643,135.819,0.476,4,Flash Hit
+44 Bulldog,Pop Smoke,2020s,TikTok Era,1,2,0.604,0.371,0.677,160.102,0.39,4,Flash Hit
+50 Shots,YoungBoy Never Broke Again,2020s,TikTok Era,1,1,0.598,0.64,0.613,90.759,0.173,4,Flash Hit
+#1 Dee Jay,Goody Goody,1970s,Pre-Social,1,5,0.607,0.573,0.49,122.274,0.535,4,Flash Hit
+(Dance The) Mess Around,Chubby Checker,1960s,Pre-Social,1,7,0.836,0.735,0.836,161.639,0.601,4,Flash Hit
+(You Don't Have To) Paint Me A Picture,Gary Lewis And The Playboys,1960s,Pre-Social,1,8,0.517,0.53,0.436,99.005,0.47,4,Flash Hit
+(one More Year Of) Daddy's Little Girl,Ray Sawyer,1970s,Pre-Social,1,3,0.393,0.599,0.537,79.316,0.027,4,Flash Hit
+25k Jacket,Gunna Featuring Lil Baby,2020s,TikTok Era,1,3,0.731,0.757,0.206,116.762,0.146,4,Flash Hit
+(Love Is) Thicker Than Water,Andy Gibb,1970s,Pre-Social,1,29,0.848,0.533,0.475,89.005,0.205,4,Flash Hit
+17 Again,Brantley Gilbert,2010s,Early Social,1,1,0.768,0.745,0.311,112.64,0.107,4,Flash Hit
+21 Questions,50 Cent Featuring Nate Dogg,2000s,Pre-Social,1,23,0.67,0.406,0.511,137.35,0.54,4,Flash Hit
+1; 2; 3; 4,Plain White T's,2000s,Early Social,1,20,0.517,0.655,0.825,76.069,0.794,4,Flash Hit
+6 Minutes Of Pleasure,LL Cool J,1990s,Pre-Social,1,2,0.889,0.493,0.561,149.079,0.727,4,Flash Hit
+18 Yellow Roses,Bobby Darin,1960s,Pre-Social,1,10,0.417,0.829,0.796,80.74,0.48,4,Flash Hit
+(All Of A Sudden) My Heart Sings,Mel Carter,1960s,Pre-Social,1,7,0.768,0.324,0.406,124.994,0.356,4,Flash Hit
+(I Just) Died In Your Arms,Cutting Crew,1980s,Pre-Social,1,19,0.894,0.751,0.375,156.813,0.615,4,Flash Hit
+(My Girl) Sloopy,Little Caesar And The Consuls,1960s,Pre-Social,1,8,0.844,0.64,0.459,109.8,0.63,4,Flash Hit
+(You've Got) Personality And Chantilly Lace,Mitch Ryder,1960s,Pre-Social,1,4,0.8,0.504,0.386,82.931,0.196,4,Flash Hit
+(When You Gonna) Give It Up To Me,Sean Paul Feat. Keyshia Cole,2000s,Early Social,1,22,0.466,0.358,0.675,141.576,0.279,4,Flash Hit
+100 Grandkids,Mac Miller,2010s,Early Social,1,1,0.457,0.412,0.613,111.653,0.532,4,Flash Hit
+(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,1960s,Pre-Social,1,12,0.601,0.707,0.887,149.977,0.681,4,Flash Hit
+"(Theme From) ""Goodbye Again""",Ferrante & Teicher,1960s,Pre-Social,1,4,0.883,0.752,0.72,124.244,0.182,4,Flash Hit
+24/7,Kevon Edmonds,1990s,Pre-Social,1,20,0.315,0.7,0.811,116.525,0.76,4,Flash Hit
+(Reach Up For The) Sunrise,Duran Duran,2000s,Pre-Social,1,5,0.621,0.377,0.399,171.571,0.091,4,Flash Hit
+(I Know I Got) Skillz,Shaquille O'Neal,1990s,Pre-Social,1,20,0.387,0.641,0.282,104.274,0.021,4,Flash Hit
+'Til My Baby Comes Home,Luther Vandross,1980s,Pre-Social,1,16,0.799,0.371,0.287,71.961,0.117,4,Flash Hit
+7 Years,Lukas Graham,2010s,TikTok Era,1,36,0.449,0.697,0.31,82.568,0.205,4,Flash Hit
+(You Make Me Feel) So Good,The McCoys,1960s,Pre-Social,1,4,0.553,0.826,0.228,76.688,0.705,4,Flash Hit
+(Quarter To Four) Stomp,The Stompers,1960s,Pre-Social,1,1,0.669,0.772,0.269,136.284,0.439,4,Flash Hit
+1941,Tom Northcott,1960s,Pre-Social,1,2,0.408,0.429,0.395,167.724,0.491,4,Flash Hit
+(There's) Always Something There To Remind Me,Dionne Warwick,1960s,Pre-Social,1,5,0.637,0.586,0.736,86.946,0.05,4,Flash Hit
+1985,Bowling For Soup,2000s,Pre-Social,1,20,0.8,0.478,0.822,156.177,0.322,4,Flash Hit
+300 Blackout,Kodak Black,2020s,TikTok Era,1,1,0.757,0.587,0.315,175.034,0.077,4,Flash Hit
+7am On Bridle Path,Drake,2020s,TikTok Era,1,3,0.367,0.861,0.535,157.759,0.541,4,Flash Hit
+(I'm A) Road Runner,Jr. Walker & The All Stars,1960s,Pre-Social,1,12,0.608,0.377,0.43,109.195,0.351,4,Flash Hit
+(I Remember) Summer Morning,Vanity Fare,1970s,Pre-Social,1,2,0.855,0.456,0.351,138.276,0.201,4,Flash Hit
+(One Of These Days) Sunday's Gonna' Come On Tuesday,The New Establishment,1960s,Pre-Social,1,2,0.367,0.772,0.241,97.895,0.681,4,Flash Hit
+(I Don't Care) Only Love Me,Steve Lawrence,Pre-1960s,Pre-Social,1,4,0.655,0.675,0.464,70.094,0.032,4,Flash Hit
+(I'll Be With You In) Apple Blossom Time,Tab Hunter,Pre-1960s,Pre-Social,1,11,0.717,0.65,0.676,104.993,0.763,4,Flash Hit
+As It Was,Harry Styles,2020s,TikTok Era,1,61,0.414,0.553,0.525,174.576,0.152,4,Flash Hit
+777-9311,The Time,1980s,Pre-Social,1,3,0.769,0.732,0.806,129.943,0.734,4,Flash Hit
+24/7,Dino,1980s,Pre-Social,1,14,0.473,0.357,0.822,76.427,0.732,4,Flash Hit
+4 Da Gang,Future,2010s,TikTok Era,1,1,0.644,0.879,0.322,157.692,0.728,4,Flash Hit
+(She's Got) Skillz,All-4-One,1990s,Pre-Social,1,20,0.471,0.52,0.395,108.153,0.567,4,Flash Hit
+2000 Excursion,Travis Scott| Sheck Wes & Don Toliver,2020s,TikTok Era,1,1,0.792,0.734,0.877,145.597,0.015,4,Flash Hit
+(I Know) I'm Losing You,Rare Earth,1970s,Pre-Social,1,14,0.587,0.402,0.425,146.802,0.601,4,Flash Hit
+(Oh) Pretty Woman,Van Halen,1980s,Pre-Social,1,16,0.463,0.71,0.311,169.302,0.269,4,Flash Hit
+865,Morgan Wallen,2020s,TikTok Era,1,5,0.35,0.553,0.644,160.8,0.415,4,Flash Hit
+25 Or 6 To 4 (1986),Chicago,1980s,Pre-Social,48,20,0.363,0.673,0.296,175.546,0.352,4,Flash Hit

@@ -1,7 +1,6 @@
 # Artistry vs. Popularity: A Data-Driven Music Analysis
 
-[![View Tableau Dashboard](https://img.shields.io/badge/View-Tableau%20Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/saatvika.chokkapu/viz/ArtistryvsPopularity-MusicIndustryAnalytics/SocialMediamadeMusicdisposable?publish=yes)
-
+![Tableau Dashboard](https://img.shields.io/badge/View-Tableau%20Dashboard-E97627?style=for-the-badge&logo=tableau)
 👉 **[View the Complete Interactive Dashboard on Tableau](https://public.tableau.com/app/profile/saatvika.chokkapu/viz/ArtistryvsPopularity-MusicIndustryAnalytics/SocialMediamadeMusicdisposable?publish=yes)**
 
 ## 📌 Project Overview
@@ -97,9 +96,3 @@ To run this data pipeline locally:
    python scripts/run_analysis.py
    ```
    *This single orchestrator script coordinates data loading, API fetching (if needed), SQL view creation, and BI exporting.*
-
-## 👩‍💻 Author
-**Saatvika Chokkapu**  
-[LinkedIn](https://www.linkedin.com/in/saatvika-chokkapu) | [Tableau Public](https://public.tableau.com/app/profile/saatvika.chokkapu)
-
-## 📸 Dashboard Previews

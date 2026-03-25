@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+spotipy
+python-dotenv
+tqdm
+psycopg2-binary
