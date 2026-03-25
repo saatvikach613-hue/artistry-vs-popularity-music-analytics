@@ -1,7 +1,7 @@
 # Artistry vs. Popularity: A Data-Driven Music Analysis
 
 ![Tableau Dashboard](https://img.shields.io/badge/View-Tableau%20Dashboard-E97627?style=for-the-badge&logo=tableau)
-👉 **[View the Complete Interactive Dashboard on Tableau](https://img.shields.io/badge/View-Tableau%20Dashboard-E97627?style=for-the-badge&logo=tableau)]
+👉 **[View the Complete Interactive Dashboard on Tableau]([https://img.shields.io/badge/View-Tableau%20Dashboard-E97627?style=for-the-badge&logo=tableau](https://public.tableau.com/app/profile/saatvika.chokkapu/viz/ArtistryvsPopularity-MusicIndustryAnalytics/SocialMediamadeMusicdisposable?publish=yes))]
 
 ## 📌 Project Overview
 **Artistry vs. Popularity** is an end-to-end data engineering and analytics project that investigates the complex relationship between commercial success (chart popularity), critical acclaim (awards), and the intrinsic audio features of music. 
