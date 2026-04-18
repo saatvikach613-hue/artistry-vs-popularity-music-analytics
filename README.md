@@ -72,6 +72,9 @@ Data manipulation was driven by SQL views and CTEs that generated custom KPIs wh
 
 ## 🚀 Setup & Execution 
 
+Dependencies:
+Key packages: pandas, spotipy, sqlalchemy, psycopg2-binary, python-dotenv
+
 To run this data pipeline locally:
 
 1. **Clone the repository** and navigate to the project root.
@@ -96,3 +99,6 @@ To run this data pipeline locally:
    python scripts/run_analysis.py
    ```
    *This single orchestrator script coordinates data loading, API fetching (if needed), SQL view creation, and BI exporting.*
+
+   Skills Demonstrated
+`SQL` `Python` `PostgreSQL` `Tableau` `pandas` `Spotify API` `Data Engineering` `KPI Design` `ETL Pipeline` `Exploratory Data Analysis`
